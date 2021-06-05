@@ -1,0 +1,1 @@
+Simple method that returns smallest positive integer (greater than 0) that does not occur in given Array.
